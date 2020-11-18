@@ -12,4 +12,5 @@ Building chatbot using Amazon Lex.<br>
 Dynamodb data operations(boto3).<br>
 ElasticSearch.<br>
 S3 Static website hosting.<br>
+Using SQS to decouple the application.<br>
 SNS.<br>
